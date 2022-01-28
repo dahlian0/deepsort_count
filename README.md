@@ -37,6 +37,6 @@ python v5.py
 This software is released under the MIT License, see LICENSE.
 
 ## Authors
-Lisa SHINODA (Master Course Student at Kyoto University)
+Risa SHINODA (Master Course Student at Kyoto University)
 
 
